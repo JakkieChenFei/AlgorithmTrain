@@ -1,1 +1,1 @@
-![image][../docs/images/sort.png]
+![image](../docs/images/sort.png)
